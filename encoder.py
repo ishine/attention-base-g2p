@@ -78,4 +78,13 @@ class Encoder(object):
             for layer_depth in xrange(self.num_layers):
                 encoder_outputs, layer_final_state = self._layer_encoder_input(encoder_inputs, seq_len, layer_depth)
 
-                #
+                #Ouput of previous layer is made input of next layer
+                encoder_inputs = encoder_outputs
+                final_states.append(later_final_state)
+                if self.num_layers == 1:
+                    final_state = final_state[0]
+                else:
+                    #this should match the format used by MultiRNNCell
+                    final_state = tuple(final_states)
+            attention_states = tf.transpose(encoder_outputs, [1, 0, 2])
+            return attention_states, final_state            

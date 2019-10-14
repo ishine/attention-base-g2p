@@ -12,7 +12,6 @@ hparams = tf.contrib.training.HParams(
     num_layers = 3,
     out_prob = 0.8,
 
-
     num_check = 100,
     max_epochs = 100,
     

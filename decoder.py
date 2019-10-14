@@ -1,6 +1,8 @@
 
 
 import tensorflow as tf
+from tensorflow.python.ops import embedding_ops
+from tensorflow.python.ops import math_ops
 from tensorflow.contrib.rnn import core_rnn_cell as rnn_cell
 
 
@@ -45,4 +47,82 @@ class Decoder(object):
     return cell
 
 
-    def prepare_decoder_input(self, decoder_inputs):       
+    def prepare_decoder_input(self, decoder_inputs):
+        '''
+        input:
+            decoder_inputs: the major decoder IDs
+        return:
+            embedded_inp: embedded decoder input
+            loop_functions: function for getting next timestamp input                
+        '''
+        with variable_scope.variable_scope('decoder'):
+            # create an embedding matrix
+            embedding = variable_scope.get_variable('embedding',
+                                                    [self.vocab_size, self.emb_size],
+                                                    initializer = tf.random_uniform_inializer(-1.0, 1.0))
+            #embed the decoder input via embedding loopup operation
+            embedding_inp = embedding_ops.embedding_loopup(embedding, decoder_inputs)
+
+        if self.isTraining:
+            if self.isSampling:
+                # this loop function samples the output from posterior
+                # and embeds this output
+                loop_function = self._sample_argmax(embedding)
+            else:
+                loop_function = None    
+        else:
+            # get loop function that would embed the maximum posterior symbol.
+            # this function is used during decoding in RNNs
+            loop_function = self._get_argmax(embedding)
+        return (embedded_inp, loop_function)
+
+    @abstractmethod
+    def decode(self, decoder_inp, seq_len,
+               encoder_hidden_states, final_state, seq_len_inp):
+    '''
+    input:
+        decodr_inp:decoder IDs T*B, contains groudn truth during training,test time are dummy value
+        seq_len:output sequence length for each input in minibatch
+        encoder_hidden_states:batch major output, shape B*T*H
+        final_state: Final hidden state of encoder RNN, useful for initializing decoder RNN
+        seq_len_inp: useful with attention-enabled decoders to mask outputs corresponding to padding symbols
+    returns:
+        outputs:Time major output, T*B*|V|, of decoder RNN
+
+    '''
+    
+    def _get_argmax(self, embedding):
+        '''
+        input:
+            embedding: embedding maxtrix for embedding the symbol
+        output:
+            loop_function:a function returns the embedded output symbol with 
+            max prob(logit score)
+        '''
+        def loop_function(logits):
+            max_symb = math_ops.argmax(logits, 1)
+            emb_symb = embedding_ops.embedding_loopup(embedding, max_symb)
+            return emb_symb
+
+        def _sample_argmax(self, embedding):
+        '''
+        input:
+            embedding: embedding maxtrix for embedding the symbol
+        return:
+            loop_function: a function that samples the output symbol from
+            posterior and embeds the sampled symbol
+        '''
+        def loop_function(prev):
+        '''
+        input:
+            prev: logit score for previous step output
+        returns:
+            emb_prev: the embedding of output symbol sampled from
+                    posterior over previous output    
+        '''
+        #tf.multinomial performs sampling given the logit scores
+        # Reshaping is required to remove the extra dimension introduced
+        # by sampling for a batch size of 1
+        prev_symbol = tf.reshape(tf.multinomial(prev, 1), [-1])
+        emb_prev = embedding_ops.embedding_loopup(embedding, prev_symbol)
+        return emb_prev    
