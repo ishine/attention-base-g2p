@@ -108,17 +108,47 @@ class Seq2SeqModel(object):
         return tf.reduce_mean(cost_per_example)
 
     def step(self, sess, encoder_inputs, seq_len, decoder_inputs, seq_len_target):
-    '''
-    '''
+        '''
+        perform 1 minibatch update/evalution
+        input:
+            sess:
+            encoder_inputs: list of a minibatch of input IDs
+            seq_len: input seq len
+            decoder_inputs: list of minibatch of output ids
+            seq_len_target: output seq length
+        returns:
+            output of a minibatch. the exact output depends on whether the model is in
+            training mode or evalution mode or evalution mode    
+        '''
+        # pass input via feed dict method
+        input_feed = {}
+        input_feed[self.encoder_inputs.name] = encoder_inputs
+        input_feed[self.decoder_inputs.name] = decoder_inputs
+        input_feed[self.seq_len.name] = seq_len
+        input_feed[self.seq_len_target.name] = seq_len_target
+
+        if self.isTraining:
+            # Important to have gradient updates as this operation is what
+            # actually updates the parameters
+            output_feed = [self.updates, self.gradient_norms, self.losses]
+        else:
+            # Evaluation    
+        
+        outputs = sess.run(output_feed, input_feed)
+        if self.isTraining:
+            return outputs[1], outputs[2]
+        else:
+            return outputs[0]
+                    
     def get_batch(self, data, bucket_id = None):
-    '''
-    prepare data from given data.
-    input:
-        data: a list of datapoints
-        bucket_id: buckit ID of data. This is irrevelant for training but for
+        '''
+        prepare data from given data.
+        input:
+            data: a list of datapoints
+            bucket_id: buckit ID of data. This is irrevelant for training but for
                    evaluation we can limit the padding by the bucket size
-    Returns:
-        batched in IDs, input seq length, output IDs & output seq length               
+        Returns:
+            batched in IDs, input seq length, output IDs & output seq length               
     '''
     if not self.isTraining:
         _, decoder_size = self.buckets[bucket_id]
@@ -150,3 +180,17 @@ class Seq2SeqModel(object):
             encoder_pad = [data_utils.PAD_ID] * encoder_pad_size
             # Encoder input is reversed
             encoder_inputs.append(list(reversed(encoder_input)) + encoder_pad)
+            
+            # 1 is added to decoder_input decause GO_ID is considered a part of
+            # decoder input. while EOS_ID is also added, it's really used by 
+            # the target tensor (self.tensor) in the core code above
+            decoder_pad_size = max_len_target - (len(decoder_input) + 1)
+            decoder_inputs.append([data_utils.GO_ID] +
+            	                  decoder_input +
+            	                  [data_utils.EOS_ID] +
+            	                  [data_utils.PAD_ID] * decoder_pad_size)
+        # Both the id sequence are made time major via transpos
+        encoder_inputs = np.asarray(encoder_inputs, dtype = np.int32).T
+        decoder_inputs = np.asarray(decoder_inputs, dtype = np.int32).T
+
+        return encoder_inputs, seq_len, decoder_inputs, seq_len_target
