@@ -368,7 +368,7 @@
 一狐之掖: yi1 hu2 zhi1 ye4
 一现昙华: yi1 xia4n ta2n hua1
 一生一世: yi4 she1ng yi2shi4
-一男半女: yi1 na2n ba4n nǚ
+一男半女: yi1 na2n ba4n nv3
 一番: yi1 fa1n
 一病不起: yi1 bi4ng bu4 qi3
 一百: yi4 ba3i
@@ -703,7 +703,7 @@
 万紫千红: wa4n zi3 qia1n ho2ng
 万绪千头: wa4n xu4 qia1n to2u
 万绪千端: wa4n xu4 qia1n dua1n
-万缕千丝: wa4n lǚ qia1n si1
+万缕千丝: wa4n lv3 qia1n si1
 万能: wa4n ne2ng
 万般: wa4n ba1n
 万花筒: wa4n hua1 to3ng
@@ -1863,7 +1863,7 @@
 不绝如发: bu4 jue2 ru2 fa4
 不绝如带: bu4 jue2 ru2 da4i
 不绝如线: bu4 jue2 ru2 xia4n
-不绝如缕: bu4 jue2 ru2 lǚ
+不绝如缕: bu4 jue2 ru2 lv3
 不绝若线: bu4 jue2 ruo4 xia4n
 不置可否: bu4 zhi4 ke3 fo3u
 不置褒贬: bu4 zhi4 ba1o bia3n
@@ -1927,7 +1927,7 @@
 不虞: bu4 yu2
 不虞之誉: bu4 yu2 zhi1 yu4
 不行: bu4 xíng
-不衫不履: bu4 sha1n bu4 lǚ
+不衫不履: bu4 sha1n bu4 lv3
 不衰: bu4 shua1i
 不要: bu2 ya4o
 不要怕: bu2 ya4o pa4
@@ -2581,7 +2581,7 @@
 临时抱佛脚: lín shi2ba4o fo2 jia3o
 临朝: lín cha2o
 临机应变: lín ji1 yi4ng bia4n
-临深履薄: lín she1n lǚ bo2
+临深履薄: lín she1n lv3 bo2
 临潼斗宝: lín to2ng do4u ba3o
 临界角: lín jie4 jia3o
 临行: lín xíng
@@ -2754,7 +2754,7 @@
 义务教育: yi4 wu4 jia4o yu4
 义和团: yi4 he2 tua2n
 义和拳: yi4 he2 qua2n
-义女: yi4 nǚ
+义女: yi4 nv3
 义愤填胸: yi4 fe4n tia2n xio1ng
 义愤填膺: yi4 fe4n tia2n yi1ng
 义无旋踵: yi4 wu2 xua2n zho3ng
@@ -2970,7 +2970,7 @@
 九垓八埏: jiu3 ga1i ba1 ya2n
 九大行星: jiu3 da4 ha2ng xi1ng
 九天九地: jiu3 tia1n jiu3 di4
-九天仙女: jiu3 tia1n xia1n nǚ
+九天仙女: jiu3 tia1n xia1n nv3
 九头鸟: jiu3 to2u nia3o
 九尾狐: jiu3 we3i hu2
 九折臂: jiu3 zhe2 bi4
@@ -2992,7 +2992,7 @@
 九间大殿: jiu3 jia1n da4 dia4n
 九间朝殿: jiu3 jia1n cha2o dia4n
 九鼎不足为重: jiu3 di3ng bu4 zu2 we2i zho4ng
-九鼎大吕: jiu3 di3ng da4 lǚ
+九鼎大吕: jiu3 di3ng da4 lv3
 乞儿乘车: qi3 e2r che2ng che1
 乞和: qi3 he2
 乞浆得酒: qi3 jia1ng de2 jiu3
@@ -3340,7 +3340,7 @@
 五毒: wu3 du2
 五毒俱全: wu3 du2 ju4 qua2n
 五申三令: wu3 she1n sa1n li4ng
-五男二女: wu3 na2n e4r nǚ
+五男二女: wu3 na2n e4r nv3
 五石六鹢: wu3 shi2liu4 yi1
 五积六受: wu3 ji1 liu4 sho4u
 五经扫地: wu3 ji1ng sa3o di4
@@ -3860,8 +3860,8 @@
 仔肩: zi1 jia1n
 仔鱼: zi3 yu2
 仔鸡: zi3 ji1
-仕女: shi4 nǚ
-仕女图: shi4 nǚ tu2
+仕女: shi4 nv3
+仕女图: shi4 nv3 tu2
 他乡异县: ta1 xia1ng yi4 xia4n
 他乡故知: ta1 xia1ng gu4 zhi1
 他乡遇故知: ta1 xia1ng yu4 gu4 zhi1
@@ -3880,7 +3880,7 @@
 付之度外: fu4 zhi1 du4 wa4i
 仙乐: xia1n le4
 仙台: xia1n ta2i
-仙女: xia1n nǚ
+仙女: xia1n nv3
 仙姿佚貌: xia1n zi1 yi4 ma4o
 仙术: xia1n shu4
 仙液琼浆: xia1n ye4 qio2ng jia1ng
@@ -3955,7 +3955,7 @@
 以便: yi3 bia4n
 以假乱真: yi3 jia3 lua4n zhe1n
 以内: yi3 ne4i
-以冠补履: yi3 gua1n bu3 lǚ
+以冠补履: yi3 gua1n bu3 lv3
 以利累形: yi3 li4 le3i xíng
 以力服人: yi3 li4 fu2 re2n
 以功补过: yi3 go1ng bu3 guo4
@@ -4324,7 +4324,7 @@
 会馆: hui4 gua3n
 会首: hui4 sho3u
 会齐: hui4 qí
-伛偻: yu3 lǚ
+伛偻: yu3 lv3
 伞盖: sa3n ga4i
 伟大: we3i da4
 伟论: we3i lu4n
@@ -4790,7 +4790,7 @@
 使功不如使过: shi3 go1ng bu4 ru2 shi3 guo4
 使劲: shi3 ji4n
 使坏: shi3 hua4i
-使女: shi3 nǚ
+使女: shi3 nv3
 使得: shi3 de
 使心别气: shi3 xi1n bie2 qi4
 使性子: shi3 xi4ng zi
@@ -4802,12 +4802,12 @@
 使贤任能: shi3 xia2n re4n ne2ng
 侃大山: ka3n da4 sha1n
 侄儿: zhi2er
-侄女: zhi2nǚ
-侄女儿: zhi2nǚ er
-侄女婿: zhi2nǚ xu4
+侄女: zhi2nv3
+侄女儿: zhi2nv3 er
+侄女婿: zhi2nv3 xu4
 侄子: zhi2zi
 侄孙: zhi2su1n
-侄孙女: zhi2su1n nǚ
+侄孙女: zhi2su1n nv3
 侈丽闳衍: chi3 li4 ho2ng ya3n
 侈人观听: chi3 re2n gua1n ti1ng
 侈侈不休: chi3 chi3 bu4 xiu1
@@ -4823,7 +4823,7 @@
 例行公事: li4 xíng go1ng shi4
 例行差事: li4 xíng cha1i shi4
 侍从: shi4 co2ng
-侍女: shi4 nǚ
+侍女: shi4 nv3
 侍应生: shi4 yi4ng she1ng
 侍弄: shi4 no4ng
 侍执巾节: shi4 zhi2ji1n jie2
@@ -4844,7 +4844,7 @@
 供应: go1ng yi4ng
 供应站: go1ng yi4ng zha4n
 供料: go1ng lia4o
-供旅客休息: go1ng lǚ ke4 xiu1 xi1
+供旅客休息: go1ng lv3 ke4 xiu1 xi1
 供暖: go4ng nua3n
 供果: go4ng guo3
 供案: go4ng a4n
@@ -4876,7 +4876,7 @@
 依从: yi1 co2ng
 依依不舍: yi1 yi1 bu4 she3
 依依惜别: yi1 yi1 xi1 bie2
-依头缕当: yi1 to2u lǚ da4ng
+依头缕当: yi1 to2u lv3 da4ng
 依头顺尾: yi1 to2u shu4n we3i
 依据: yi1 ju4
 依法炮制: yi1 fa3 pa2o zhi4
@@ -4884,7 +4884,7 @@
 依翠偎红: yi1 cui4 we1i ho2ng
 依违两可: yi1 we2i lia3ng ke3
 依阿取容: yi1 e1 qu3 ro2ng
-侠女: xia2 nǚ
+侠女: xia2 nv3
 侠骨: xia2 gu3
 侥幸: jia3o xi4ng
 侦察员: zhe1n cha2 yua2n
@@ -5047,7 +5047,7 @@
 信天游: xi4n tia1n yo2u
 信天翁: xi4n tia1n we1ng
 信奉: xi4n fe4ng
-信女: xi4n nǚ
+信女: xi4n nv3
 信守: xi4n sho3u
 信守不渝: xi4n sho3u bu4 yu2
 信实: xi4n shí
@@ -5106,7 +5106,7 @@
 俭朴: jia3n pu3
 俭省: jia3n she3ng
 俭约: jia3n yue1
-修女: xiu1 nǚ
+修女: xiu1 nv3
 修好: xiu1 ha3o
 修枝: xiu1 zhi1
 修正: xiu1 zhe4ng
@@ -5331,7 +5331,7 @@
 倚翠偎红: yi3 cui4 we1i ho2ng
 倚重: yi3 zho4ng
 倚门卖俏: yi3 me2n ma4i qia4o
-倚闾望切: yi3 lǘ wa4ng qie1
+倚闾望切: yi3 lv2 wa4ng qie1
 倚马可待: yi3 ma3 ke3 da4i
 倜傥不羁: ti4 ta3ng bu4 ji1
 倜傥不群: ti4 ta3ng bu4 qu2n
@@ -5368,7 +5368,7 @@
 倥侗: ko1ng to2ng
 倦尾赤色: jua4n we3i chi4 se4
 倦鸟知还: jua4n nia3o zhi1 hua2n
-倩女离魂: qia4n nǚ li2hu2n
+倩女离魂: qia4n nv3 li2hu2n
 倭寇: wo1 ko4u
 倭瓜: wo1 gua1
 债券: zha4i qua4n
@@ -5544,13 +5544,13 @@
 儗不于伦: li3 bu4 yu2 lu2n
 儗非其伦: ni3 fe1i qi2lu2n
 儿化: e2r hua4
-儿女: e2r nǚ
-儿女之情: e2r nǚ zhi1 qíng
-儿女亲家: e2r nǚ qi4ng jia1
-儿女债: e2r nǚ zha4i
-儿女心肠: e2r nǘ xi1n cha2ng
-儿女情长: e2r nǚ qíng cha2ng
-儿女成行: e2r nǚ che2ng ha2ng
+儿女: e2r nv3
+儿女之情: e2r nv3 zhi1 qíng
+儿女亲家: e2r nv3 qi4ng jia1
+儿女债: e2r nv3 zha4i
+儿女心肠: e2r nv2 xi1n cha2ng
+儿女情长: e2r nv3 qíng cha2ng
+儿女成行: e2r nv3 che2ng ha2ng
 儿媳妇儿: e2r xi2fu4 e2r
 儿子: e2r zi
 儿孙: e2r su1n
@@ -6149,7 +6149,7 @@
 典当: dia3n da4ng
 兹事体大: zi1 shi4 ti3 da4
 养分: ya3ng fe4n
-养女: ya3ng nǚ
+养女: ya3ng nv3
 养家: ya3ng jia1
 养家活口: ya3ng jia1 huo2 ko3u
 养家糊口: ya3ng jia1 hu2 ko3u
@@ -6190,7 +6190,7 @@
 内传: ne4i zhua4n
 内伤: ne4i sha1ng
 内侄: ne4i zhí
-内侄女: ne4i zhi2nǚ
+内侄女: ne4i zhi2nv3
 内侍: ne4i shi4
 内侵: ne4i qi1n
 内修外攘: ne4i xiu1 wai ra3ng
@@ -6403,13 +6403,13 @@
 农贸市场: no2ng ma4o shi4 cha3ng
 农转非: no2ng zhua3n fe1i
 冠上加冠: gua1n sha4ng jia1 gua1n
-冠上履下: gua1n sha4ng lǚ xia4
+冠上履下: gua1n sha4ng lv3 xia4
 冠冕: gua1n mia3n
 冠冕堂皇: gua1n mia3n ta2ng hua2ng
 冠军: gua4n ju1n
 冠子: gua4n zi
-冠履倒易: gua1n lǚ da4o yi4
-冠履倒置: gua1n lǚ da4o zhi4
+冠履倒易: gua1n lv3 da4o yi4
+冠履倒置: gua1n lv3 da4o zhi4
 冠屦倒施: gua4n ju4 da3o shi1
 冠山戴粒: gua4n sha1n da4i li4
 冠心病: gua1n xi1n bi4ng
@@ -6426,7 +6426,7 @@
 冠盖相望: gua1n ga4i xia1ng wa4ng
 冠礼: gua4n li3
 冠绝一时: gua4n jue2 yi1 shí
-冠袍带履: gua1n pa2o da4i lǚ
+冠袍带履: gua1n pa2o da4i lv3
 冢中枯骨: zho3ng zho1ng ku1 gu3
 冤仇: yua1n cho2u
 冤假错案: yua1n jia3 cuo4 a4n
@@ -6919,9 +6919,9 @@
 刁钻刻薄: dia1o zua1n ke4 bo2
 刁钻古怪: dia1o zua1n gu3 gua4i
 刁难: dia1o na4n
-刃迎缕解: re4n yíng lǚ jie3
+刃迎缕解: re4n yíng lv3 jie3
 分三别两: fe1n sa1n bie2 lia3ng
-分丝析缕: fe1n si1 xi1 lǚ
+分丝析缕: fe1n si1 xi1 lv3
 分为: fe1n we2i
 分享: fe1n xia3ng
 分会: fe1n hui4
@@ -7143,7 +7143,7 @@
 分飞: fe1n fe1i
 分餐: fe1n ca1n
 分馏: fe1n liu2
-分香卖履: fe1n xia1ng ma4i lǚ
+分香卖履: fe1n xia1ng ma4i lv3
 切不: qie4 bu4
 切中: qie4 zho4ng
 切中事理: qie4 zho4ng shi4 li3
@@ -7623,7 +7623,7 @@
 削职为民: xue1 zhi2we2i mín
 削肩: xue1 jia1n
 削草除根: xue1 ca3o chu2 ge1n
-削足适履: xue1 zu2 shi4 lǚ
+削足适履: xue1 zu2 shi4 lv3
 削趾适屦: xue1 zhi3 shi4 ju4
 削铁如泥: xue1 tie3 ru2 ní
 削铁无声: xue1 tie3 wu2 she1ng
@@ -7944,7 +7944,7 @@
 劲头: ji4n to2u
 劲射: ji4ng she4
 劲敌: ji4ng dí
-劲旅: ji4ng lǚ
+劲旅: ji4ng lv3
 劲松: ji4ng so1ng
 劲直: ji4ng zhí
 劲草: ji4ng ca3o
@@ -8335,7 +8335,7 @@
 十鼠同穴: shi2shu3 to2ng xue2
 千万: qia1n wa4n
 千万买邻: qia1n wa4n ma3i lín
-千丝万缕: qia1n si1 wa4n lǚ
+千丝万缕: qia1n si1 wa4n lv3
 千乘万骑: qia1n che2ng wa4n qí
 千乘之国: qia1n she4ng zhi1 guo2
 千了万当: qia1n le wa4n da4ng
@@ -8394,7 +8394,7 @@
 千村万落: qia1n cu1n wa4n luo4
 千条万端: qia1n tia2o wa4n dua1n
 千条万绪: qia1n tia2o wa4n xu4
-千条万缕: qia1n tia2o wa4n lǚ
+千条万缕: qia1n tia2o wa4n lv3
 千水万山: qia1n shui3 wa4n sha1n
 千汇万状: qia1n hui4 wa4n zhua4ng
 千沟万壑: qia1n go1u wa4n he4
@@ -8690,7 +8690,7 @@
 卖俏: ma4i qia4o
 卖俏行奸: ma4i qia4o xíng jia1n
 卖俏迎奸: ma4i qia4o yíng jia1n
-卖儿鬻女: ma4i e2r yu4 nǚ
+卖儿鬻女: ma4i e2r yu4 nv3
 卖关节: ma4i gua1n jie2
 卖劲: ma4i ji4n
 卖大号: ma4i da4 ha4o
@@ -8698,14 +8698,14 @@
 卖好: ma4i ha3o
 卖妻鬻子: ma4i qi1 yu4 zi3
 卖富差贫: ma4i fu4 cha4 pín
-卖履分香: ma4i lǚ fe1n xia1ng
+卖履分香: ma4i lv3 fe1n xia1ng
 卖弄: ma4i no4ng
 卖文为生: ma4i we2n we2i she1n
 卖方市场: ma4i fa1ng shi4 cha3ng
 卖李钻核: ma4i li3 zua1n he2
 卖狗悬羊: ma4i go3u xua2n ya2ng
 卖狗皮膏药: ma4i go3u pi2ga1o ya4o
-卖男鬻女: ma4i na2n yu4 nǚ
+卖男鬻女: ma4i na2n yu4 nv3
 卖相: ma4i xia4ng
 卖空: ma4i ko1ng
 卖空买空: ma4i ko1ng ma3i ko1ng
@@ -8725,7 +8725,7 @@
 南华: na2n hua2
 南南合作: na2n na2n he2 zuo4
 南去北来: na2n qu4 be3i la2i
-南吕: na2n lǚ
+南吕: na2n lv3
 南唐: na2n ta2ng
 南国: na2n guo2
 南天竹: na2n tia1n zhu2
@@ -8999,7 +8999,7 @@
 卷面: jua4n mia4n
 卷须: jua4n xu1
 卸任: xie4 re4n
-卸磨杀驴: xie4 mo4 sha1 lǘ
+卸磨杀驴: xie4 mo4 sha1 lv2
 卸车: xie4 che1
 卸载: xie4 za3i
 卿大夫: qi1ng da4i fu1
@@ -10519,7 +10519,7 @@
 吓一大跳: xia4 yi2da4 tia4o
 吓人: xia4 re2n
 吓唬: xia4 hu
-吕端大事不糊涂: lǚ dua1n da4 shi4 bu4 hu2 tu2
+吕端大事不糊涂: lv3 dua1n da4 shi4 bu4 hu2 tu2
 吖啶: a1 di4ng
 吗啡: ma3 fe1i
 吗玩意儿: ma2 wa2n yi4 er
@@ -10560,7 +10560,7 @@
 吧台: ba1 ta2i
 吧唧: ba1 ji1
 吧嗒: ba1 da1
-吧女: ba1 nǚ
+吧女: ba1 nv3
 吧的一声: ba1 de yi1 she1ng
 含冤莫白: ha2n yua1n mo4 ba2i
 含含糊糊: ha2n ha2n hu hu1
@@ -11212,7 +11212,7 @@
 善文能武: sha4n we2n ne2ng wu3
 善有善报: sha4n yo3u sha4n ba4o
 善游者溺: sha4n yo2u zhe3 ni4
-善男信女: sha4n na2n xi4n nǚ
+善男信女: sha4n na2n xi4n nv3
 善罢干休: sha4n ba4 ga1n xiu1
 善罢甘休: sha4n ba4 ga1n xiu1
 善自为谋: sha4n zi4 we2i mo2u
@@ -11626,7 +11626,7 @@
 国际劳动节: guo2 ji4 la2o do4ng jie2
 国际单位制: guo2 ji4 da1n we4i zhi4
 国际复兴开发银行: guo2 ji4 fu4 xi1ng ka1i fa1 yín ha2ng
-国际妇女节: guo2 ji4 fu4 nǚ jie2
+国际妇女节: guo2 ji4 fu4 nv3 jie2
 国难: guo2 na4n
 国难当头: guo2 na4n da1ng to2u
 国风: guo2 fe1ng
@@ -11694,7 +11694,7 @@
 圣人不为而成: she4ng re2n bu4 we2i e2r che2ng
 圣君贤相: she4ng ji1ng xia2n xia4ng
 圣地: she4ng di4
-圣女: she4ng nǚ
+圣女: she4ng nv3
 圣帝明王: she4ng di4 míng wa2ng
 圣经贤传: she4ng ji1ng xia2n zhua4n
 圣诞节: she4ng da4n jie2
@@ -12237,7 +12237,7 @@
 士卒: shi4 zu2
 士可杀不可辱: shi4 ke3 sha1 bu4 ke3 ru3
 士大夫: shi4 da4 fu1
-士女: shi4 nǚ
+士女: shi4 nv3
 士死知己: shi4 si3 zhi1 ji3
 壮丁: zhua4ng di1ng
 壮丽: zhua4ng li4
@@ -12292,10 +12292,10 @@
 处境: chu3 ji4ng
 处士: chu3 shi4
 处处: chu3 chu4
-处女: chu3 nǚ
-处女作: chu3 nǚ zuo4
-处女地: chu3 nǚ di4
-处女膜: chu3 nǚ mo2
+处女: chu3 nv3
+处女作: chu3 nv3 zuo4
+处女地: chu3 nv3 di4
+处女膜: chu3 nv3 mo2
 处子: chu3 zi3
 处实效功: chu3 shi2xia4o go1ng
 处尊居显: chu3 zu1n ju1 xia3n
@@ -12384,7 +12384,7 @@
 外壳: wa4i ke2
 外头: wa4i tou
 外孙: wa4i su1n
-外孙女: wa4i su1n nǚ
+外孙女: wa4i su1n nv3
 外孙子: wa4i su1n zi
 外家: wa4i jia1
 外宽内忌: wa4i kua1n ne4i ji4
@@ -12402,7 +12402,7 @@
 外景: wa4i ji3ng
 外来语: wa4i la2i yu3
 外港: wa4i ga3ng
-外甥女: wa4i she1ng nǚ
+外甥女: wa4i she1ng nv3
 外相: wa4i xia1ng
 外省: wa4i she3ng
 外祖父: wa4i zu3 fu4
@@ -12649,7 +12649,7 @@
 大后年: da4 ho4u nia2n
 大后方: da4 ho4u fa1ng
 大吏: da4 li4
-大吕: da4 lǚ
+大吕: da4 lv3
 大君: da4 ju1n
 大含细入: da4 ha2n xi4 ru4
 大吵大闹: da4 cha3o da4 na4o
@@ -12968,7 +12968,7 @@
 大璞不完: ta4i pu2 bu4 wa2n
 大田: da4 tia2n
 大田作物: da4 tia2n zuo4 wu4
-大男大女: da4 na2n da4 nǚ
+大男大女: da4 na2n da4 nv3
 大略: da4 lüe4
 大病: da4 bi4ng
 大白: da4 ba2i
@@ -13240,8 +13240,8 @@
 天大地大: tia1n da4 di4 da4
 天头: tia1n to2u
 天夺其魄: tia1n duo2 qi2po4
-天女: tia1n nǚ
-天女散花: tia1n nǚ sa4n hua1
+天女: tia1n nv3
+天女散花: tia1n nv3 sa4n hua1
 天姥山: tia1n mu3 sha1n
 天字第一号: tia1n zi4 di4 yi1 ha4o
 天安门广场: tia1n a1n me2n gua3ng cha3ng
@@ -13780,79 +13780,79 @@
 奥林匹克运动会: a4o lín pi3 ke4 yu4n do4ng hui4
 奥秘: a4o mi4
 奥运会: a4o yu4n hui4
-女中丈夫: nǚ zho1ng zha4ng fu1
-女中尧舜: nǚ zho1ng ya2o shu4n
-女中豪杰: nǚ zho1ng ha2o jie2
-女主人: nǚ zhu3 re2n
-女主角: nǚ zhu3 jue2
-女人: nǚ re2n
-女人气: nǚ re2n qi4
-女仆: nǚ pu2
-女优: nǚ yo1u
-女伴: nǚ ba4n
-女伶: nǚ líng
-女佣人: nǚ yo1ng re2n
-女侍: nǚ shi4
-女儿: nǚ e2r
-女儿墙: nǚ e2r qia2ng
-女公子: nǚ go1ng zi3
-女博士: nǚ bo2 shi4
-女厕所: nǚ ce4 suo3
-女史: nǚ shi3
-女墙: nǚ qia2ng
-女士: nǚ shi4
-女大不中留: nǚ da4 bu4 zho4ng liu2
-女大十八变: nǚ da4 shi2ba1 bia4n
-女大当嫁: nǚ da4 da1ng jia4
-女大难留: nǚ da4 na2n liu2
-女大须嫁: nǚ da4 xu1 jia4
-女奴: nǚ nu2
-女妖: nǚ ya1o
-女娲: nǚ wa1
-女娲补天: nǚ wa1 bu3 tia1n
-女婿: nǚ xu4
-女子: nǚ zi3
-女孩: nǚ ha2i
-女孩儿: nǚ ha2i e2r
-女孩子: nǚ ha2i zi
-女家: nǚ jia1
-女将: nǚ jia4ng
-女尸: nǚ shi1
-女工: nǚ go1ng
-女巫: nǚ wu1
-女弟: nǚ di4
-女强人: nǚ qia3ng re2n
-女性: nǚ xi4ng
-女扮男装: nǚ ba4n na2n zhua1ng
-女招待: nǚ zha1o da4i
-女教师: nǚ jia4o shi1
-女方: nǚ fa1ng
-女朋友: nǚ pe2ng yo3u
-女权: nǚ qua2n
-女校长: nǚ xia4o zha3ng
-女歌手: nǚ ge1 sho3u
-女流: nǚ liu2
-女王: nǚ wa2ng
-女生: nǚ she1ng
-女皇: nǚ hua2ng
-女监: nǚ jia1n
-女真: nǚ zhe1n
-女眷: nǚ jua4n
-女神: nǚ she2n
-女童: nǚ to2ng
-女管家: nǚ gua3n jia1
-女红: nǚ go1ng
-女织男耕: nǚ zhi1 na2n ge1ng
-女能人: nǚ ne2ng re2n
-女色: nǚ se4
-女装: nǚ zhua1ng
-女裤: nǚ ku4
-女角: nǚ jia3o
-女貌郎才: nǚ ma4o la2ng ca2i
-女贞: nǚ zhe1n
-女郎: nǚ la2ng
-女长当嫁: nǚ zha3ng da1ng jia4
-女长须嫁: nǚ zha3ng xu1 jia4
+女中丈夫: nv3 zho1ng zha4ng fu1
+女中尧舜: nv3 zho1ng ya2o shu4n
+女中豪杰: nv3 zho1ng ha2o jie2
+女主人: nv3 zhu3 re2n
+女主角: nv3 zhu3 jue2
+女人: nv3 re2n
+女人气: nv3 re2n qi4
+女仆: nv3 pu2
+女优: nv3 yo1u
+女伴: nv3 ba4n
+女伶: nv3 líng
+女佣人: nv3 yo1ng re2n
+女侍: nv3 shi4
+女儿: nv3 e2r
+女儿墙: nv3 e2r qia2ng
+女公子: nv3 go1ng zi3
+女博士: nv3 bo2 shi4
+女厕所: nv3 ce4 suo3
+女史: nv3 shi3
+女墙: nv3 qia2ng
+女士: nv3 shi4
+女大不中留: nv3 da4 bu4 zho4ng liu2
+女大十八变: nv3 da4 shi2ba1 bia4n
+女大当嫁: nv3 da4 da1ng jia4
+女大难留: nv3 da4 na2n liu2
+女大须嫁: nv3 da4 xu1 jia4
+女奴: nv3 nu2
+女妖: nv3 ya1o
+女娲: nv3 wa1
+女娲补天: nv3 wa1 bu3 tia1n
+女婿: nv3 xu4
+女子: nv3 zi3
+女孩: nv3 ha2i
+女孩儿: nv3 ha2i e2r
+女孩子: nv3 ha2i zi
+女家: nv3 jia1
+女将: nv3 jia4ng
+女尸: nv3 shi1
+女工: nv3 go1ng
+女巫: nv3 wu1
+女弟: nv3 di4
+女强人: nv3 qia3ng re2n
+女性: nv3 xi4ng
+女扮男装: nv3 ba4n na2n zhua1ng
+女招待: nv3 zha1o da4i
+女教师: nv3 jia4o shi1
+女方: nv3 fa1ng
+女朋友: nv3 pe2ng yo3u
+女权: nv3 qua2n
+女校长: nv3 xia4o zha3ng
+女歌手: nv3 ge1 sho3u
+女流: nv3 liu2
+女王: nv3 wa2ng
+女生: nv3 she1ng
+女皇: nv3 hua2ng
+女监: nv3 jia1n
+女真: nv3 zhe1n
+女眷: nv3 jua4n
+女神: nv3 she2n
+女童: nv3 to2ng
+女管家: nv3 gua3n jia1
+女红: nv3 go1ng
+女织男耕: nv3 zhi1 na2n ge1ng
+女能人: nv3 ne2ng re2n
+女色: nv3 se4
+女装: nv3 zhua1ng
+女裤: nv3 ku4
+女角: nv3 jia3o
+女貌郎才: nv3 ma4o la2ng ca2i
+女贞: nv3 zhe1n
+女郎: nv3 la2ng
+女长当嫁: nv3 zha3ng da1ng jia4
+女长须嫁: nv3 zha3ng xu1 jia4
 奴仆: nu2 pu2
 奴化: nu2 hua4
 奴家: nu2 jia1
@@ -13913,7 +13913,7 @@
 好奇: ha4o qí
 好奇尚异: ha3o qi2sha4ng yi4
 好奇心: ha4o qi2xi1n
-好女不穿嫁时衣: ha3o nǚ bu4 chua1n jia4 shi2yi1
+好女不穿嫁时衣: ha3o nv3 bu4 chua1n jia4 shi2yi1
 好好: ha3o ha3o
 好好儿: ha3o ha3o e2r
 好好先生: ha3o ha3o xia1n she1ng
@@ -13927,7 +13927,7 @@
 好强: ha4o qia2ng
 好得很: ha3o de he3n
 好心: ha3o xi1n
-好心做了驴肝肺: ha3o xi1n zuo4 le lǘ ga1n fe4i
+好心做了驴肝肺: ha3o xi1n zuo4 le lv2 ga1n fe4i
 好心好意: ha3o xi1n ha3o yi4
 好恶: ha4o wu4
 好恶不同: ha3o e4 bu4 to2ng
@@ -14022,8 +14022,8 @@
 如堕五里雾中: ru2 duo4 wu3 li3 wu4 zho1ng
 如堕烟海: ru2 duo4 ya1n ha3i
 如堕烟雾: ru2 duo4 ya1n wu4
-如履平地: ru2 lǚ píng di4
-如履薄冰: ru2 lǚ bo2 bi1ng
+如履平地: ru2 lv3 píng di4
+如履薄冰: ru2 lv3 bo2 bi1ng
 如山压卵: ru2 sha1n ya1 lua3n
 如应斯响: ru2 yi4ng si1 xia3ng
 如弟: ru2 di4
@@ -14093,10 +14093,10 @@
 妄说: wa4ng shuo1
 妆模作样: zhua1ng mo2 zuo4 ya4ng
 妆聋做哑: zhua1ng lo2ng zuo4 ya3
-妇女: fu4 nǚ
-妇女病: fu4 nǚ bi4ng
-妇女节: fu4 nǚ jie2
-妇女运动: fu4 nǚ yu4n do4ng
+妇女: fu4 nv3
+妇女病: fu4 nv3 bi4ng
+妇女节: fu4 nv3 jie2
+妇女运动: fu4 nv3 yu4n do4ng
 妇姑勃溪: fu4 gu1 bo2 xi1
 妇姑勃谿: fu4 gu1 bo2 xi1
 妇孺皆知: fu4 ru2 jie1 zhi1
@@ -14107,9 +14107,9 @@
 妒能害贤: du4 ne2ng ha4i xia2n
 妒贤嫉能: du4 xia2n ji2ne2ng
 妒贤疾能: du4 xia2n ji2ne2ng
-妓女: ji4 nǚ
+妓女: ji4 nv3
 妖不胜德: ya1o bu4 she4ng de2
-妖女: ya1o nǚ
+妖女: ya1o nv3
 妖娆: ya1o ra2o
 妖术: ya1o shu4
 妖由人兴: ya1o yo2u re2n xi1ng
@@ -14131,7 +14131,7 @@
 妙语连珠: mia4o yu3 lia2n zhu1
 妙趣: mia4o qu4
 妙趣横生: mia4o qu4 he2ng she1ng
-妙龄女子: mia4o líng nǚ zi
+妙龄女子: mia4o líng nv3 zi
 妞儿: niu1 er
 妞子: niu1 zi
 妥帖: tuo3 tie1
@@ -14253,7 +14253,7 @@
 婚假: hu1n jia4
 婚龄: hu1n líng
 婢作夫人: bi4 zuo4 fu1 re2n
-婢女: bi4 nǚ
+婢女: bi4 nv3
 婵媛: cha2n yua2n
 媒体: me2i ti3
 媒合: me2i he2
@@ -14301,8 +14301,8 @@
 子句: zi3 ju4
 子叶: zi3 ye4
 子囊: zi3 na2ng
-子女: zi3 nǚ
-子女玉帛: zi3 nǚ yu4 bo2
+子女: zi3 nv3
+子女玉帛: zi3 nv3 yu4 bo2
 子子孙孙: zi3 zi3 su1n su1n
 子孙: zi3 su1n
 子孙后代: zi3 su1n ho4u da4i
@@ -14358,8 +14358,8 @@
 存食: cu2n shí
 孙儿: su1n e2r
 孙吴: su1n wu2
-孙女: su1n nǚ
-孙女婿: su1n nǚ xu4
+孙女: su1n nv3
+孙女婿: su1n nv3 xu4
 孙媳妇: su1n xi2fu4
 孙子: su1n zi
 孙庞斗智: su1n pa2ng do4u zhi4
@@ -14369,7 +14369,7 @@
 孜孜不怠: zi1 zi1 bu4 da4i
 孜孜不懈: zi1 zi1 bu4 xie4
 孜孜不辍: zi1 zi1 bu4 chuo4
-孝女: xia4o nǚ
+孝女: xia4o nv3
 孝子慈孙: xia4o zi3 ci2su1n
 孝子贤孙: xia4o zi3 xia2n su1n
 孝子顺孙: xia4o zi3 shu4n su1n
@@ -14392,9 +14392,9 @@
 孤傲不群: gu1 a4o bu4 qu2n
 孤单: gu1 da1n
 孤单一人: gu1 da1n yi4 re2n
-孤女: gu1 nǚ
+孤女: gu1 nv3
 孤家寡人: gu1 jia1 gua3 re2n
-孤履危行: gu1 lǚ we1i xíng
+孤履危行: gu1 lv3 we1i xíng
 孤掌难鸣: gu1 zha3ng na2n míng
 孤文只义: gu1 we2n zhi1 yi4
 孤文断句: gu1 we2n dua4n ju4
@@ -14718,11 +14718,11 @@
 宣称: xua1n che1ng
 宣读: xua1n du2
 室内: shi4 ne4i
-室女: shi4 nǚ
+室女: shi4 nv3
 室如县罄: shi4 ru2 xia4n qi4ng
 室迩人远: shi4 e3r re2n yua3n
 宦海风波: hua4n ha3i fe1ng bo1
-宫女: go1ng nǚ
+宫女: go1ng nv3
 宫扇: go1ng sha4n
 宫掖: go1ng ye4
 宫禁: go1ng ji4n
@@ -14814,7 +14814,7 @@
 家底: jia1 di3
 家庭: jia1 tíng
 家庭副业: jia1 tíng fu4 ye4
-家庭妇女: jia1 tíng fu4 nǚ
+家庭妇女: jia1 tíng fu4 nv3
 家庭教师: jia1 tíng jia4o shi1
 家弟: jia1 di4
 家弦户诵: jia1 xia2n hu4 so4ng
@@ -15061,7 +15061,7 @@
 寸步难移: cu4n bu4 na2n yí
 寸步难行: cu4n bu4 na2n xíng
 寸田尺宅: cu4n tia2n chi3 zha2i
-寸男尺女: cu4n na2n chi3 nǚ
+寸男尺女: cu4n na2n chi3 nv3
 寸积铢累: cu4n ji1 zhu1 le3i
 寸草不生: cu4n ca3o bu4 she1ng
 寸草不留: cu4n ca3o bu4 liu2
@@ -15288,8 +15288,8 @@
 小大由之: xia3o da4 yo2u zhi1
 小天地: xia3o tia1n di4
 小头: xia3o to2u
-小女: xia3o nǚ
-小女子: xia3o nǚ zi3
+小女: xia3o nv3
+小女子: xia3o nv3 zi3
 小妞儿: xia3o niu1 er
 小姑独处: xia3o gu1 du2 chu3
 小孩子: xia3o ha2i zi
@@ -15340,7 +15340,7 @@
 小老头: xia3o la3o to2u
 小肚子: xia3o du3 zi
 小肚鸡肠: xia3o du4 ji1 cha2ng
-小脚女人: xia3o jia3o nǚ re2n
+小脚女人: xia3o jia3o nv3 re2n
 小舅子: xia3o jiu4 zi
 小节: xia3o jie2
 小苏打: xia3o su1 da2
@@ -15381,8 +15381,8 @@
 少壮: sha4o zhua4ng
 少壮派: sha4o zhua4ng pa4i
 少头缺尾: sha3o to2u que1 we3i
-少女: sha4o nǚ
-少女装: sha4o nǚ zhua1ng
+少女: sha4o nv3
+少女装: sha4o nv3 zhua1ng
 少奶奶: sha4o na3i nai
 少妇: sha4o fu4
 少子: sha3o zi3
@@ -15433,7 +15433,7 @@
 少量: sha3o lia4ng
 少陪: sha3o pe2i
 少顷: sha3o qi3ng
-尕驴儿: ga3 lǘ er
+尕驴儿: ga3 lv2 er
 尖削: jia1n xia1o
 尖嘴薄舌: jia1n zui3 bo2 she2
 尖头: jia1n to2u
@@ -15693,19 +15693,19 @@
 屠毒笔墨: tu2 du2 bi3 mo4
 屠门大嚼: tu2 me2n da4 jia2o
 屠龙之伎: tu2 lo2ng zhi1 ji4
-屡教不改: lǚ jia4n bu4 ga3i
-屡次三番: lǚ ci4 sa1n fa1n
-屡见不鲜: lǚ jia4n bu4 xia1n
-屡试不爽: lǚ shi4 bu4 shua3ng
-履信思顺: lǚ xi4n si1 shu4n
-履机乘变: lǚ ji1 che2ng bia4n
-履汤蹈火: lǚ ta1ng da3o huo3
-履约: lǚ yue1
-履薄临深: lǚ bo2 lín she1n
-履行: lǚ xíng
-履足差肩: lǚ zu2 cha4 jia1n
-履险若夷: lǚ xia3n ruo4 yí
-履霜知冰: lǚ shua1ng zhi1 bi1ng
+屡教不改: lv3 jia4n bu4 ga3i
+屡次三番: lv3 ci4 sa1n fa1n
+屡见不鲜: lv3 jia4n bu4 xia1n
+屡试不爽: lv3 shi4 bu4 shua3ng
+履信思顺: lv3 xi4n si1 shu4n
+履机乘变: lv3 ji1 che2ng bia4n
+履汤蹈火: lv3 ta1ng da3o huo3
+履约: lv3 yue1
+履薄临深: lv3 bo2 lín she1n
+履行: lv3 xíng
+履足差肩: lv3 zu2 cha4 jia1n
+履险若夷: lv3 xia3n ruo4 yí
+履霜知冰: lv3 shua1ng zhi1 bi1ng
 屯兵: tu2n bi1ng
 屯垦: tu2n ke3n
 屯子: tu2n zi3
@@ -15914,7 +15914,7 @@
 左右为难: zuo3 yo4u we2i na2n
 左右采获: zuo3 yo4u ca3i huo4
 左宜右有: zuo3 yi2yo4u fu2
-左家娇女: zuo3 jia1 jia1o nǚ
+左家娇女: zuo3 jia1 jia1o nv3
 左思右想: zuo3 si1 yo4u xia3ng
 左提右挈: zuo3 ti2yo4u qie4
 左撇子: zuo3 pie3 zi3
@@ -15949,7 +15949,7 @@
 巨量: ju4 lia4ng
 巨阙: ju4 que1
 巫云楚雨: wu1 yu2n chu3 yu3
-巫女: wu1 nǚ
+巫女: wu1 nv3
 巫山云雨: wu1 sha1n yu2n yu3
 巫术: wu1 shu4
 差一点: cha4 yi4 dia3n
@@ -15982,7 +15982,7 @@
 差得远: cha4 de yua3n
 差拨: cha1i bo1
 差数: cha1 shu4
-差旅费: cha1i lǚ fe4i
+差旅费: cha1i lv3 fe4i
 差池: cha1 chí
 差点: cha4 dia3n
 差等: cha4 de3ng
@@ -17765,8 +17765,8 @@
 怨入骨髓: yua4n ru4 gu3 sui3
 怨声载道: yua4n she1ng za4i da4o
 怨天怨地: yua4n tia1n yua4n di4
-怨女: yua4n nǚ
-怨女旷夫: yua4n nǚ kua4ng fu1
+怨女: yua4n nv3
+怨女旷夫: yua4n nv3 kua4ng fu1
 怨家债主: yua4n jia1 zha4i zhu3
 怨毒: yua4n du2
 怨气冲天: yua4n qi4 cho1ng tia1n
@@ -18426,7 +18426,7 @@
 戮力齐心: lu4 li4 qi2xi1n
 戴发含牙: da4i fa1 ha2n ya2
 戴发含齿: da4i fa1 ha2n chi3
-戴天履地: da4i tia1n lǚ di4
+戴天履地: da4i tia1n lv3 di4
 戴天蹐地: da4i tia1n ji2di4
 戴头识脸: da4i to2u shi2lia3n
 戴帽子: da4i ma4o zi
@@ -18549,7 +18549,7 @@
 才大如海: ca2i da4 ru2 ha3i
 才大难用: ca2i da4 na2n yo4ng
 才夸八斗: ca2i kua1 ba1 do3u
-才女: ca2i nǚ
+才女: ca2i nv3
 才干: ca2i ga4n
 才广妨身: ca2i gua3ng fa2ng she1n
 才思: ca2i si1
@@ -19263,7 +19263,7 @@
 报知: ba4o zhi1
 报答: ba4o da2
 报载: ba4o za3i
-报销差旅费: ba4o xia1o cha1i lǚ fe4i
+报销差旅费: ba4o xia1o cha1i lv3 fe4i
 抨弹: pe1ng ta2n
 披卷: pi1 jua4n
 披发: pi1 fa4
@@ -19543,7 +19543,7 @@
 拔葵去织: ba2 kui2qu4 zhi1
 拔锅卷席: ba2 guo1 jua3n xí
 拖人落水: tuo1 re2n luo4 shui3
-拖儿带女: tuo1 e2r da4i nǚ
+拖儿带女: tuo1 e2r da4i nv3
 拖天扫地: tuo1 tia1n sa3o di4
 拖家带口: tuo1 jia1 da4i ko3u
 拖把: tuo1 ba3
@@ -19553,7 +19553,7 @@
 拖斗: tuo1 do3u
 拖沓: tuo1 ta4
 拖泥带水: tuo1 ni2da4i shui3
-拖男带女: tuo1 na2n da4i nǚ
+拖男带女: tuo1 na2n da4i nv3
 拖累: tuo1 le3i
 拖车: tuo1 che1
 拖金委紫: tuo1 ji1n we3i zi3
@@ -19592,7 +19592,7 @@
 招亡纳叛: zha1o wa2ng na4 pa4n
 招亲: zha1o qi1n
 招供: zha1o go4ng
-招女婿: zha1o nǚ xu4
+招女婿: zha1o nv3 xu4
 招待: zha1o da4i
 招待会: zha1o da1i hui4
 招待员: zha1o da4i yua2n
@@ -19785,7 +19785,7 @@
 挂肚牵肠: gua4 du4 qia1n cha2ng
 挂车: gua4 che1
 挂轴: gua4 zho2u
-指不胜偻: zhi3 bu4 she4ng lǚ
+指不胜偻: zhi3 bu4 she4ng lv3
 指不胜屈: zhi3 bu4 she4ng qu1
 指东划西: zhi3 do1ng hua4 xi1
 指东说西: zhi3 do1ng shuo1 xi1
@@ -19968,7 +19968,7 @@
 挫折: cuo4 zhe2
 挫骨扬灰: cuo4 gu3 ya2ng hui1
 振兴: zhe4n xi1ng
-振兵泽旅: zhe4n bi1ng shi4 lǚ
+振兵泽旅: zhe4n bi1ng shi4 lv3
 振振有词: zhe4n zhe4n yo3u cí
 振振有辞: zhe4n zhe4n yo3u cí
 振聋发聩: zhe4n lo2ng fa1 kui4
@@ -19998,7 +19998,7 @@
 捉风捕影: zhuo1 fe1ng bu3 yi3ng
 捉风捕月: zhuo1 fe1ng bu3 yue4
 捉鼠拿猫: zhuo1 shu3 na2 ma1o
-捋胡子: lǚ hu2 zi3
+捋胡子: lv3 hu2 zi3
 捋虎须: luo1 hu3 xu1
 捋袖子: luo1 xiu4 zi
 捋袖揎拳: luo1 xiu4 xua1n qua2n
@@ -20046,7 +20046,7 @@
 捧腹大笑: pe3ng fu4 da4 xia4o
 捭阖纵横: ba3i he2 zo4ng he2ng
 据为己有: ju4 we2i ji3 yo3u
-据义履方: ju4 yi4 lǚ fa1ng
+据义履方: ju4 yi4 lv3 fa1ng
 据图刎首: ju4 tu2 we3n sho3u
 据理力争: ju4 li3 li4 zhe1ng
 据鞍读书: ju4 a1n du2 shu1
@@ -20407,7 +20407,7 @@
 搴旗斩将: qia1n qi2zha3n jia4ng
 携云握雨: xie2 yu2n wo4 yu3
 携家带口: xie2 jia1 da4i ko3u
-携男挈女: xie2 na2n qie4 nǚ
+携男挈女: xie2 na2n qie4 nv3
 搽脂抹粉: cha2 zhi1 mo3 fe3n
 摁钉儿: e4n di1ng e2r
 摄像: she4 xia4ng
@@ -21109,13 +21109,13 @@
 敲髓洒膏: qia1o sui3 sa3 ga1o
 整个: zhe3ng ge4
 整体: zhe3ng ti3
-整冠纳履: zhe3ng gua4n na4 lǚ
+整冠纳履: zhe3ng gua4n na4 lv3
 整地: zhe3ng di4
 整宿: zhe3ng su4
 整年累月: zhe3ng nia2n le4i yue4
 整数: zhe3ng shu4
 整整齐齐: zhe3ng zhe3ng qi2qí
-整旅厉卒: zhe3ng lǚ li4 zu2
+整旅厉卒: zhe3ng lv3 li4 zu2
 整本大套: zhe3ng be3n da4 ta4o
 整枝: zhe3ng zhi1
 整装待发: zhe3ng zhua1ng da4i fa1
@@ -21450,12 +21450,12 @@
 旁门左道: pa2ng me2n zuo3 da4o
 旁门邪道: pa2ng me2n xie2 da4o
 旁骛: pa2ng wu4
-旅差费: lǚ cha4 fe4i
-旅游区: lǚ yo2u qu1
-旅舍: lǚ she4
-旅行: lǚ xíng
-旅行社: lǚ xíng she4
-旅贲: lǚ be1n
+旅差费: lv3 cha4 fe4i
+旅游区: lv3 yo2u qu1
+旅舍: lv3 she4
+旅行: lv3 xíng
+旅行社: lv3 xíng she4
+旅贲: lv3 be1n
 旋乾转坤: xua2n qia2n zhua3n ku1n
 旋干转坤: xua2n qia2n zhua3n ku1n
 旋得旋失: xua2n de2 xua2n shi1
@@ -21948,7 +21948,7 @@
 旷世奇才: kua4ng shi4 qi2ca2i
 旷古奇闻: kua4ng gu3 qi2we2n
 旷古未有: kua4ng gu3 we4i yo3u
-旷夫怨女: kua4ng fu1 yua4n nǚ
+旷夫怨女: kua4ng fu1 yua4n nv3
 旷日弥久: kua4ng ri4 mi2jiu3
 旷日累时: kua4ng ri4 le3i shí
 旷日长久: kua4ng ri4 cha2ng jiu3
@@ -21970,7 +21970,7 @@
 昆曲: ku1n qu3
 昊天不吊: ha4o tia1n bu4 dia4o
 昌乐: cha1ng le4
-昌亭旅食: cha2ng tíng lǚ shí
+昌亭旅食: cha2ng tíng lv3 shí
 昌歜羊枣: cha1ng chu4 ya2ng za3o
 昌盛: cha1ng she4ng
 昌都县: cha1ng do1u xia4n
@@ -22361,7 +22361,7 @@
 曝晒: pu4 sha4i
 曝背食芹: pu4 be4i shi2qín
 曝露: pu4 lu4
-曝骨履肠: pu4 gu3 lǚ cha2ng
+曝骨履肠: pu4 gu3 lv3 cha2ng
 曲不离口: qu3 bu4 li2ko3u
 曲别针: qu3 bie2 zhe1n
 曲剧: qu3 ju4
@@ -22603,7 +22603,7 @@
 有头有脑: yo3u to2u yo3u na3o
 有头有脸: yo3u to2u yo3u lia3n
 有头没脑: yo3u to2u me2i na3o
-有女怀春: yo3u nǚ hua2i chu1n
+有女怀春: yo3u nv3 hua2i chu1n
 有奶便是娘: yo3u na3i bia4n shi4 nia2ng
 有奶就是娘: yo3u na3i jiu4 shi4 nia2ng
 有如: yo3u ru2
@@ -23241,8 +23241,8 @@
 村落: cu1n luo4
 村野匹夫: cu1n ye3 pi3 fu1
 村长: cu1n zha3ng
-杖履相从: zha4ng lǚ xia1ng co2ng
-杖履纵横: zha4ng lǚ zo4ng he2ng
+杖履相从: zha4ng lv3 xia1ng co2ng
+杖履纵横: zha4ng lv3 zo4ng he2ng
 杜口结舌: du4 ko3u jie2 she2
 杜渐防微: du4 jia4n fa2ng we1i
 杜渐防萌: du4 jia4n fa2ng me2ng
@@ -23289,7 +23289,7 @@
 条入叶贯: tia2o ru4 ye4 gua4n
 条几: tia2o ji1
 条凳: tia2o de4ng
-条分缕析: tia2o fe1n lǚ xi1
+条分缕析: tia2o fe1n lv3 xi1
 条分节解: tia2o fe1n jie2 jie3
 条子: tia2o zi
 条幅: tia2o fu2
@@ -23441,7 +23441,7 @@
 析圭担爵: xi1 gui1 da1n jue2
 析疑: xi1 yí
 析疑匡谬: xi1 yi2kua1ng miu4
-析缕分条: xi1 lǚ fe1n tia2o
+析缕分条: xi1 lv3 fe1n tia2o
 析肝吐胆: xi1 ga1n tu3 da3n
 析骨而炊: xi1 gu3 e2r chui1
 枕中鸿宝: zhe3n zho1ng ho2ng ba3o
@@ -23493,7 +23493,7 @@
 果行育德: guo3 xíng yu4 de2
 枝丫: zhi1 ya1
 枝分叶散: zhi1 fe1n ye4 sa4n
-枝分缕解: zhi1 fe1n lǚ jie3
+枝分缕解: zhi1 fe1n lv3 jie3
 枝别条异: zhi1 bie2 tia2o yi4
 枝叶: zhi1 ye4
 枝叶扶疏: zhi1 ye4 fu2 shu1
@@ -24290,7 +24290,7 @@
 橡皮钉子: xia4ng pi2di4ng zi3
 橱柜: chu2 gui4
 檀郎: ta2n la2ng
-檀郎谢女: ta2n la2ng xie4 nǚ
+檀郎谢女: ta2n la2ng xie4 nv3
 檀香扇: ta2n xia1ng sha4n
 檐头: ya2n to2u
 檐溜: ya2n liu4
@@ -24365,7 +24365,7 @@
 歌仔戏: ge1 za3i xi4
 歌台舞榭: ge1 ta2i wu3 xie4
 歌唱家: ge1 cha4ng jia1
-歌女: ge1 nǚ
+歌女: ge1 nv3
 歌曲: ge1 qu3
 歌片儿: ge1 pia1n er
 歌舞伎: ge1 wu3 ji4
@@ -24399,7 +24399,7 @@
 正儿巴经: zhe4ng e2r ba1 ji1ng
 正册: zhe4ng ce4
 正冠李下: zhe4ng gua4n li3 xia4
-正冠纳履: zhe4ng gua4n na4 lǚ
+正冠纳履: zhe4ng gua4n na4 lv3
 正凶: zhe4ng xio1ng
 正出: zhe4ng chu1
 正切: zhe4ng qie1
@@ -24564,7 +24564,7 @@
 此问彼难: ci3 we4n bi3 na2n
 此间: ci3 jia1n
 此风不可长: ci3 fe1ng bu4 ke3 zha3ng
-步履蹒跚: bu4 lǚ pa2n sha1n
+步履蹒跚: bu4 lv3 pa2n sha1n
 步斗踏罡: bu4 do3u ta4 ga1ng
 步步为营: bu4 bu4 we2i yíng
 步线行针: bu4 xia4n xíng zhe1n
@@ -24860,7 +24860,7 @@
 毫不含糊: ha2o bu4 ha2n hu2
 毫不屑意: ha2o bu2 xie4 yi4
 毫不讳言: ha2o bu4 hui4 ya2n
-毫分缕析: ha2o fe1n lǚ xi1
+毫分缕析: ha2o fe1n lv3 xi1
 毫厘不爽: ha2o li2bu4 shua3ng
 毫发不爽: ha2o fa4 bu4 shua3ng
 毫发丝粟: ha2o fa1 si1 su4
@@ -26153,7 +26153,7 @@
 淋漓尽致: lín li2ji4n zhi4
 淋病: li4n bi4ng
 淋雨: lín yu3
-淑女: shu1 nǚ
+淑女: shu1 nv3
 淘沙取金: ta2o sha1 qu3 ji1n
 淘沙得金: ta2o sha1 de2 ji1n
 淘洗: ta2o xi3
@@ -26913,7 +26913,7 @@
 烂若舒锦: la4n ruo4 shu1 ji3n
 烂醉如泥: la4n zui4 ru2 ní
 烂额焦头: la4n e2 jia1o to2u
-烈女: lie4 nǚ
+烈女: lie4 nv3
 烈属: lie4 shu3
 烈度: lie4 du4
 烈火干柴: lie4 huo3 ga1n cha2i
@@ -27137,8 +27137,8 @@
 燎泡: lia2o pa4o
 燎若观火: lia2o ruo4 gua1n huo3
 燕京: ya1n ji1ng
-燕侣莺俦: ya4n lǚ yi1ng cho2u
-燕俦莺侣: ya4n cho2u yi1ng lǚ
+燕侣莺俦: ya4n lv3 yi1ng cho2u
+燕俦莺侣: ya4n cho2u yi1ng lv3
 燕儿: ya4n e2r
 燕处危巢: ya4n chu3 we1i cha2o
 燕处焚巢: ya4n chu3 fe2n cha2o
@@ -27334,7 +27334,7 @@
 牛头马面: niu2 to2u ma3 mia4n
 牛扒: niu2 ba1
 牛排: niu2 pa2i
-牛星织女: niu2 xi1ng zhi1 nǚ
+牛星织女: niu2 xi1ng zhi1 nv3
 牛毛细雨: niu2 ma2o xi4 yu3
 牛毛雨: niu2 ma2o yu3
 牛溲马勃: niu2 so1u ma3 bo2
@@ -27350,7 +27350,7 @@
 牛车: niu2 che1
 牛郎: niu2 la2ng
 牛郎星: niu2 la2ng xi1ng
-牛郎织女: niu2 la2ng zhi1 nǚ
+牛郎织女: niu2 la2ng zhi1 nv3
 牛鞅: niu2 ya4ng
 牛骥共牢: niu2 ji4 go4ng la2o
 牛骥同槽: niu2 ji4 to2ng ca2o
@@ -27405,7 +27405,7 @@
 牵强附会: qia1n qia2ng fu4 hui4
 牵强附合: qia1n qia2ng fu4 he2
 牵拉: qia1n la1
-牵牛织女: qia1n niu2 zhi1 nǚ
+牵牛织女: qia1n niu2 zhi1 nv3
 牵着鼻子走: qia1n zhe bi2zi zo3u
 牵系: qia1n xi4
 牵累: qia1n le3i
@@ -27437,7 +27437,7 @@
 犀角烛怪: xi1 jia3o zhu2 gua4i
 犀顶龟文: xi1 di3ng gui1 we2n
 犁庭扫穴: li2tíng sa3o xue2
-犁庭扫闾: li2tíng sa3o lǚ
+犁庭扫闾: li2tíng sa3o lv3
 犁牛骍角: li2niu2 ma4i jia3o
 犁生骍角: li2she1ng yue4 jia3o
 犄角: ji1 jia3o
@@ -27547,7 +27547,7 @@
 独处: du2 chu3
 独夫: du2 fu1
 独夫民贼: du2 fu1 mín ze2i
-独女: du2 nǚ
+独女: du2 nv3
 独家: du2 jia1
 独当一面: du2 da1ng yi1 mia4n
 独得之见: du2 de2 zhi1 jia4n
@@ -27562,7 +27562,7 @@
 独木难支: du2 mu4 na2n zhi1
 独步当世: du2 bu4 da1ng shi4
 独步当时: du2 bu4 da1ng shí
-独生女: du2 she1ng nǚ
+独生女: du2 she1ng nv3
 独立王国: du2 li4 wa2ng guo2
 独脚戏: du2 jia3o xi4
 独行: du2 xíng
@@ -27681,7 +27681,7 @@
 玉兰片: yu4 la2n pia4n
 玉卮无当: yu4 zhi1 wu2 da4ng
 玉叶金枝: yu4 ye4 ji1n zhi1
-玉女: yu4 nǚ
+玉女: yu4 nv3
 玉尺量才: yu4 chi3 lia2ng ca2i
 玉成其事: yu4 che2ng qi2shi4
 玉成其美: yu4 che2ng qi2me3i
@@ -27878,7 +27878,7 @@
 瑰意琦行: gui1 yi4 qi2xíng
 瑶台琼室: ya2o ta2i qio2ng shi4
 瑶台银阙: ya2o ta2i yín que4
-瑶池女使: ya2o shi nǚ shi3
+瑶池女使: ya2o shi nv3 shi3
 瑶草奇花: ya2o ca3o qi2hua1
 璇霄丹台: xua2n xia1o da1n ta2i
 璇霄丹阙: xua2n xia1o da1n que4
@@ -28044,7 +28044,7 @@
 生风: she1ng fe1ng
 生鲜: she1ng xia1n
 生齿日繁: she1ng chi3 ri4 fa2n
-甥女: she1ng nǚ
+甥女: she1ng nv3
 用一当十: yo4ng yi1 da1ng shí
 用之不竭: yo4ng zhi1 bu4 jie2
 用人不当: yo4ng re2n bu2 da4ng
@@ -28177,29 +28177,29 @@
 男仆: na2n pu2
 男傧相: na2n bi1n xia4ng
 男儿有泪不轻弹: na2n e2r yo3u le4i bu4 qi1ng ta2n
-男唱女随: na2n cha4ng nǚ suí
+男唱女随: na2n cha4ng nv3 suí
 男大当娶: na2n da4 da1ng qu3
 男大当婚: na2n da4 da1ng hu1n
 男大须婚: na2n da4 xu1 hu1n
-男女: na2n nǚ
-男女平等: na2n nǚ píng de3ng
-男女授受不亲: na2n nǚ sho4u sho4u bu4 qi1n
-男女有别: na2n nǚ yo3u bie2
-男女老小: na2n nǚ la3o xia3o
-男女老少: na2n nǚ la3o sha4o
-男女老幼: na2n nǚ la3o yo4u
-男婚女嫁: na2n hu1n nǚ jia4
-男婚女聘: na2n hu1n nǚ pi4n
+男女: na2n nv3
+男女平等: na2n nv3 píng de3ng
+男女授受不亲: na2n nv3 sho4u sho4u bu4 qi1n
+男女有别: na2n nv3 yo3u bie2
+男女老小: na2n nv3 la3o xia3o
+男女老少: na2n nv3 la3o sha4o
+男女老幼: na2n nv3 la3o yo4u
+男婚女嫁: na2n hu1n nv3 jia4
+男婚女聘: na2n hu1n nv3 pi4n
 男孩儿: na2n ha2i er
 男孩子: na2n ha2i zi
-男室女家: na2n shi4 nǚ jia1
+男室女家: na2n shi4 nv3 jia1
 男家: na2n jia1
-男尊女卑: na2n zu1n nǚ be1i
-男才女貌: na2n ca2i nǚ ma4o
-男欢女爱: na2n hua1n nǚ a4i
-男男女女: na2n na2n nǚ nǚ
-男盗女娼: na2n da4o nǚ cha1ng
-男耕女织: na2n ge1ng nǚ zhi1
+男尊女卑: na2n zu1n nv3 be1i
+男才女貌: na2n ca2i nv3 ma4o
+男欢女爱: na2n hua1n nv3 a4i
+男男女女: na2n na2n nv3 nv3
+男盗女娼: na2n da4o nv3 cha1ng
+男耕女织: na2n ge1ng nv3 zhi1
 甸子: dia4n zi3
 画中有诗: hua4 zho1ng yo3u shi1
 画卷: hua4 jua4n
@@ -28434,8 +28434,8 @@
 痱子: fe4i zi3
 痱子粉: fe4i zi3 fe3n
 痴人说梦: chi1 re2n shuo1 me4ng
-痴儿呆女: chi1 e2r da1i nǚ
-痴男怨女: chi1 na2n yua4n nǚ
+痴儿呆女: chi1 e2r da1i nv3
+痴男怨女: chi1 na2n yua4n nv3
 痹症: bi4 zhe4ng
 瘀血: yu1 xue4
 瘅暑: da1n shu3
@@ -28516,7 +28516,7 @@
 白晃晃: ba2i hua4ng hua3ng
 白术: ba2i zhu2
 白条: ba2i tia2o
-白毛女: ba2i ma2o nǚ
+白毛女: ba2i ma2o nv3
 白汤: ba2i ta1ng
 白热化: ba2i re4 hua4
 白癜风: ba2i dia4n fe1ng
@@ -28740,7 +28740,7 @@
 监守自盗: jia1n sho3u zi4 da4o
 监察: jia1n cha2
 监工: jia1n go1ng
-监市履狶: jia1n shi4 lǚ xi1
+监市履狶: jia1n shi4 lv3 xi1
 监房: jia1n fa2ng
 监护: jia1n hu4
 监护人: jia1n hu4 re2n
@@ -28871,7 +28871,7 @@
 盲人把烛: ma2ng re2n ba3 zhu2
 盲人说象: ma2ng re2n shuo1 xia4ng
 盲从: ma2ng co2ng
-盲女: ma2ng nǚ
+盲女: ma2ng nv3
 盲翁扪钥: ma2ng we1ng me2n ya4o
 盲者得镜: ma2ng zhe3 de2 ji4ng
 盲风妒雨: ma2ng fe1ng du4 yu3
@@ -28974,7 +28974,7 @@
 相处: xia1ng chu3
 相失交臂: xia1ng shi1 jia1o bi4
 相契: xia1ng qi4
-相女配夫: xia4ng nǚ pe4i fu1
+相女配夫: xia4ng nv3 pe4i fu1
 相好: xia1ng ha3o
 相安: xia1ng a1n
 相安无事: xia1ng a1n wu2 shi4
@@ -29577,7 +29577,7 @@
 石壁: shi2bi4
 石头: shi2tou
 石头城: shi2tou che2ng
-石女: shi2nǚ
+石女: shi2nv3
 石子: shi2zi3
 石子儿: shi2zi3 er
 石室: shi2shi4
@@ -30039,8 +30039,8 @@
 神头鬼脸: she2n to2u gui3 lia3n
 神头鬼面: she2n to2u gui3 mia4n
 神奇: she2n qí
-神女: she2n nǚ
-神女峰: she2n nǚ fe1ng
+神女: she2n nv3
+神女峰: she2n nv3 fe1ng
 神妙莫测: she2n mia4o mo4 ce4
 神州赤县: she2n zho1u chi4 xia4n
 神差鬼使: she2n cha1i gui3 shi3
@@ -30223,7 +30223,7 @@
 离间: li2jia4n
 离题万里: li2ti2wa4n li3
 离骚: li2sa1o
-离魂倩女: li2hu2n qia4n nǚ
+离魂倩女: li2hu2n qia4n nv3
 离鸾别凤: li2lua2n bie2 fe4ng
 离鸾别鹄: li2lua2n bie2 hu2
 离鸾别鹤: li2lua2n bie2 he4
@@ -30714,7 +30714,7 @@
 窃据要津: qie4 ju4 ya4o ji1n
 窃窃私语: qie4 qie4 si1 yu3
 窈窕: ya3o tia3o
-窈窕淑女: ya3o tia3o shu1 nǚ
+窈窕淑女: ya3o tia3o shu1 nv3
 窒碍难行: zhi4 a4i na2n xíng
 窖藏: jia4o ca2ng
 窗台: chua1ng ta2i
@@ -30776,10 +30776,10 @@
 章台杨柳: zha1ng ta2i ya2ng liu3
 童仆: to2ng pu2
 童便: to2ng bia4n
-童女: to2ng nǚ
+童女: to2ng nv3
 童山濯濯: to2ng sha1n zhuo2 zhuo2
 童牛角马: to2ng niu2 jia3o ma3
-童男童女: to2ng na2n to2ng nǚ
+童男童女: to2ng na2n to2ng nv3
 童蒙: to2ng me2ng
 童趣: to2ng qu4
 童颜鹤发: to2ng ya2n he4 fa4
@@ -31020,7 +31020,7 @@
 管风琴: gua3n fe1ng qín
 管鲍分金: gua3n ba4o fe1n ji1n
 箩筐: luo kua1ng
-箪瓢屡空: da1n pia2o lǚ ko1ng
+箪瓢屡空: da1n pia2o lv3 ko1ng
 箪豆见色: da1n do4u jia4n se4
 箪食壶浆: da1n si4 hu2 jia1ng
 箪食壶酒: da1n si4 hu2 jiu3
@@ -31337,7 +31337,7 @@
 红外线: ho2ng wa4i xia4n
 红头: ho2ng to2u
 红头文件: ho2ng to2u we2n jia4n
-红女: ho2ng nǚ
+红女: ho2ng nv3
 红妆: ho2ng zhua1ng
 红娘: ho2ng nia2ng
 红学: ho2ng xue2
@@ -31392,7 +31392,7 @@
 红牌: ho2ng pa2i
 红玉: ho2ng yu4
 红生: ho2ng she1ng
-红男绿女: ho2ng na2n lv4 nǚ
+红男绿女: ho2ng na2n lv4 nv3
 红白喜事: ho2ng ba2i xi3 shi4
 红皮: ho2ng pí
 红皮书: ho2ng pi2shu1
@@ -31662,8 +31662,8 @@
 细雨: xi4 yu3
 细高挑儿: xi4 ga1o tia3o e2r
 织品: zhi1 pi3n
-织女: zhi1 nǚ
-织女星: zhi1 nǚ xi1ng
+织女: zhi1 nv3
+织女星: zhi1 nv3 xi1ng
 织布: zhi1 bu4
 织布机: zhi1 bu4 ji1
 织当访婢: zhi1 da1ng fa3ng bi4
@@ -31901,7 +31901,7 @@
 绿化: lv4 hua4
 绿叶成荫: lv4 ye4 che2ng yi1n
 绿叶成阴: lv4 ye4 che2ng yi1n
-绿女红男: lv4 nǚ ho2ng na2n
+绿女红男: lv4 nv3 ho2ng na2n
 绿帽子: lv4 ma4o zi
 绿惨红愁: lv4 ca3n ho2ng cho2u
 绿惨红销: lv4 ca3n ho2ng xia1o
@@ -32138,8 +32138,8 @@
 美其名曰: me3i qi2míng yue1
 美化: me3i hua4
 美地: me3i di4
-美女: me3i nǚ
-美女簪花: me3i nǚ za1n hua1
+美女: me3i nv3
+美女簪花: me3i nv3 za1n hua1
 美好: me3i ha3o
 美如冠玉: me3i ru2 gua1n yu4
 美容术: me3i ro2ng shu4
@@ -32256,7 +32256,7 @@
 老几: la3o ji3
 老化: la3o hua4
 老区: la3o o1u
-老处女: la3o chu3 nǚ
+老处女: la3o chu3 nv3
 老大: la3o da4
 老大哥: la3o da4 ge1
 老大姐: la3o da4 jie3
@@ -33188,7 +33188,7 @@
 舞会: wu3 hui4
 舞台: wu3 ta2i
 舞场: wu3 cha3ng
-舞女: wu3 nǚ
+舞女: wu3 nv3
 舞弄: wu3 no4ng
 舞弄文墨: wu3 no4ng we2n mo4
 舞文弄墨: wu3 we2n no4ng mo4
@@ -33687,7 +33687,7 @@
 获得性免疫: huo4 de2 xi4ng mia3n yi4
 获知: huo4 zhi1
 获隽公车: huo4 ju1n go1ng che1
-莺俦燕侣: yi1ng cho2u ya4n lǚ
+莺俦燕侣: yi1ng cho2u ya4n lv3
 莺吟燕儛: yi1ng yín ya4n sa1i
 莺吟燕舞: yi1ng yín ya4n wu3
 莺啼燕语: yi1ng ti2ya4n yu3
@@ -33813,7 +33813,7 @@
 著作权法: zhu4 zuo4 qua2n fa3
 著作等身: zhu4 zuo4 de3ng she1n
 著述等身: zhu4 shu4 de3ng she1n
-葛屦履霜: ge3 ju4 lǚ shua1ng
+葛屦履霜: ge3 ju4 lv3 shua1ng
 葛布: ge2 bu4
 葛根: ge2 ge1n
 葛粉: ge2 fe3n
@@ -34404,7 +34404,7 @@
 衅稔恶盈: xi4n re3n e4 yíng
 行不从径: xíng bu4 co2ng ji4ng
 行不副言: xíng bu4 fu4 ya2n
-行不履危: xíng bu4 lǚ we1i
+行不履危: xíng bu4 lv3 we1i
 行不得也哥哥: xíng bu4 de2 ye3 ge1 ge1
 行不由径: xíng bu4 yo2u ji4ng
 行不胜衣: xíng bu4 she4ng yi1
@@ -34484,7 +34484,7 @@
 行政法: xíng zhe4ng fa3
 行文: xíng we2n
 行方便: xíng fa1ng bia4n
-行旅: xíng lǚ
+行旅: xíng lv3
 行时: xíng shí
 行易知难: xíng yi4 zhi1 na2n
 行星: xíng xi1ng
@@ -34665,7 +34665,7 @@
 补阙灯檠: bu3 que1 de1ng qíng
 补骨脂: bu3 gu3 zhi1
 表亲: bia3o qi1n
-表侄女: bia3o zhi2nǚ
+表侄女: bia3o zhi2nv3
 表兄弟: bia3o xio1ng di4
 表壮不如里壮: bia3o zhua4ng bu4 ru2 li3 zhua4ng
 表头: bia3o to2u
@@ -36342,7 +36342,7 @@
 贝阙珠宫: be4i que4 zhu1 go1ng
 贞不绝俗: zhe1n bu4 jue2 su2
 贞元会合: zhe1n yua2n hui4 he2
-贞女: zhe1n nǚ
+贞女: zhe1n nv3
 贞松劲柏: zhe1n so1ng ji4ng ba3i
 贞节: zhe1n jie2
 贞观: zhe1n gua4n
@@ -36538,7 +36538,7 @@
 贵不可言: gui4 bu4 ke3 ya2n
 贵不期骄: gui4 bu4 qi1 jia1o
 贵体: gui4 ti3
-贵冠履轻头足: gui4 gua1n lǚ qi1ng to2u zu2
+贵冠履轻头足: gui4 gua1n lv3 qi1ng to2u zu2
 贵在知心: gui4 za4i zhi1 xi1n
 贵处: gui4 chu3
 贵妃: gui4 fe1i
@@ -36747,7 +36747,7 @@
 赶趟儿: ga3n ta4ng e2r
 赶跑: ga3n pa3o
 赶车: ga3n che1
-赶驴: ga3n lǚ
+赶驴: ga3n lv3
 赶鸭子: ga3n ya1 zi
 赶鸭子上架: ga3n ya1 zi1 sha4ng jia4
 起价: qi3 jia4
@@ -36835,7 +36835,7 @@
 趣谈: qu4 ta2n
 足不出户: zu2 bu4 chu1 hu4
 足不出门: zu2 bu4 chu1 me2n
-足不履影: zu2 bu4 lǚ yi3ng
+足不履影: zu2 bu4 lv3 yi3ng
 足不窥户: zu2 bu4 kui1 hu4
 足不逾户: zu2 bu4 yu2 hu4
 足兵足食: zu2 bi1ng zu2 shí
@@ -38580,7 +38580,7 @@
 遗物识心: yi2wu4 shi2xi1n
 遗珥堕簪: yi2e3r duo4 za1n
 遗笑大方: yi2xia4o da4 fa1ng
-遗簪堕履: yi2za1n duo4 lǚ
+遗簪堕履: yi2za1n duo4 lv3
 遗簪堕珥: yi2za1n duo4 e3r
 遗老遗少: yi2la3o yi2sha4o
 遗臭万世: yi2cho4u wa4n shi4
@@ -38740,8 +38740,8 @@
 邯郸重步: ha2n da1n cho2ng bu4
 邹缨齐紫: zo1u yi1ng qi2zi3
 邺架之藏: ye4 jia4 zhi1 ca2ng
-邻女窥墙: lín nǚ kui1 qia2ng
-邻女詈人: lín nǚ li4 re2n
+邻女窥墙: lín nv3 kui1 qia2ng
+邻女詈人: lín nv3 li4 re2n
 邻家: lín jia1
 邻舍: lín she4
 邻角: lín jia3o
@@ -38754,8 +38754,8 @@
 郎中: la2ng zho1ng
 郎君: la2ng ju1n
 郎当: la2ng da1ng
-郎才女姿: la2ng ca2i nǚ zi1
-郎才女貌: la2ng ca2i nǚ ma4o
+郎才女姿: la2ng ca2i nv3 zi1
+郎才女貌: la2ng ca2i nv3 ma4o
 郎舅: la2ng jiu4
 郑重: zhe4ng zho4ng
 郑重其事: zhe4ng zho4ng qi2shi4
@@ -38996,7 +38996,7 @@
 重婚: cho2ng hu1n
 重子: zho4ng zi3
 重孙: cho2ng su1n
-重孙女: cho2ng su1n nǚ
+重孙女: cho2ng su1n nv3
 重孝: zho4ng xia4o
 重审: cho2ng she3n
 重山复岭: cho2ng sha1n fu4 li3ng
@@ -39074,7 +39074,7 @@
 重生父母: cho2ng she1ng fu4 mu3
 重生爷娘: cho2ng she1ng ye2 nia2ng
 重申: cho2ng she1n
-重男轻女: zho4ng na2n qi1ng nǚ
+重男轻女: zho4ng na2n qi1ng nv3
 重睹天日: cho2ng du3 tia1n ri4
 重税: zho4ng shui4
 重纰貤缪: cho2ng pi1 yi2miu4
@@ -39251,7 +39251,7 @@
 金石良言: ji1n shi2lia2ng ya2n
 金科玉条: ji1n ke1 yu4 tia2o
 金章玉句: ji1n zha1ng yu4 ju4
-金童玉女: ji1n to2ng yu4 nǚ
+金童玉女: ji1n to2ng yu4 nv3
 金翅擘海: ji1n chi4 ba1i ha3i
 金苹果: ji1n píng guo3
 金蛇: ji1n she2
@@ -39770,7 +39770,7 @@
 长夜难明: cha2ng ye4 na2n míng
 长大: zha3ng da4
 长天: cha2ng tia1n
-长女: zha3ng nǚ
+长女: zha3ng nv3
 长子: zha3ng zi3
 长存: cha2ng cu2n
 长孙: zha3ng su1n
@@ -40049,7 +40049,7 @@
 间不容瞬: jia1n bu4 ro2ng shu4n
 间不容砺: jia1n bu4 ro2ng li4
 间不容缓: jia1n bu4 ro2ng hua3n
-间不容缕: jia1n bu4 ro2ng lǚ
+间不容缕: jia1n bu4 ro2ng lv3
 间作: jia4n zuo4
 间奏: jia4n zo4u
 间奏曲: jia4n zo4u qu3
@@ -40109,7 +40109,7 @@
 闹着玩: na4o zhe wa2n
 闹着玩儿: na4o zhe wa2n e2r
 闹肚子: na4o du3 zi
-闺女: gui1 nǚ
+闺女: gui1 nv3
 闻一知二: we2n yi1 zhi1 e4r
 闻一知十: we2n yi1 zhi1 shí
 闻名不如见面: we2n míng bu4 ru2 jia4n mia4n
@@ -40136,8 +40136,8 @@
 闽侯: mi3n ho4u
 闽北话: mi3n be3i hua4
 闽南话: mi3n na2n hua4
-闾巷: lǘ xia4ng
-闾阎扑地: lǘ ya2n pu1 di4
+闾巷: lv2 xia4ng
+闾阎扑地: lv2 ya2n pu1 di4
 阁员: ge2 yua2n
 阅卷: yue4 jua4n
 阅看: yue4 ka4n
@@ -40664,7 +40664,7 @@
 雕章绘句: dia1o zha1ng hui4 ju4
 雕章镂句: dia1o zha1ng lo4u ju4
 雕肝琢肾: dia1o ga1n zhuo2 she4n
-雕肝琢膂: dia1o ga1n zhuo2 lǚ
+雕肝琢膂: dia1o ga1n zhuo2 lv3
 雕虫末伎: dia1o cho2ng mo4 ji4
 雕虫薄技: dia1o cho2ng ba2o ji4
 雕蚶镂蛤: dia1o ha1n lo4u ge2
@@ -40923,7 +40923,7 @@
 青龙金匮: qi1ng lo2ng ji1n kui4
 靓丽: lia4ng li4
 靓仔: lia4ng za3i
-靓女: lia4ng nǚ
+靓女: lia4ng nv3
 靓妆: ji4ng zhua1ng
 靓衣: ji4ng yi1
 靓饰: ji4ng shi4
@@ -41785,7 +41785,7 @@
 饮露餐风: yi3n lu4 ca1n fe1ng
 饮风餐露: yi3n fe1ng ca1n lu4
 饮食: yi3n shí
-饮食男女: yi3n shi2na2n nǚ
+饮食男女: yi3n shi2na2n nv3
 饮食疗法: yi3n shi2lia2o fa3
 饮食起居: yi3n shi2qi3 ju1
 饮马长江: yi3n ma3 cha2ng jia1ng
@@ -41876,7 +41876,7 @@
 香臭: xia1ng cho4u
 香花供养: xia1ng hua1 go4ng ya3ng
 香车宝马: xia1ng che1 ba3o ma3
-騃女痴男: a2i nǚ chi1 na2n
+騃女痴男: a2i nv3 chi1 na2n
 騃童钝夫: a2i to2ng du4n fu1
 马上: ma3 sha4ng
 马上功成: ma3 sha4ng go1ng che2ng
@@ -41960,11 +41960,11 @@
 驳倒: bo2 da3o
 驳壳枪: bo2 ke2 qia1ng
 驳论: bo2 lu4n
-驴唇不对马嘴: lǘ chu2n bu4 dui4 ma3 zui3
-驴唇马觜: lǘ chu2n ma3 zi1
-驴头不对马嘴: lǘ to2u bu4 dui4 ma3 zui3
-驴子: lǘ zi
-驴打滚: lǘ da3 gu3n
+驴唇不对马嘴: lv2 chu2n bu4 dui4 ma3 zui3
+驴唇马觜: lv2 chu2n ma3 zi1
+驴头不对马嘴: lv2 to2u bu4 dui4 ma3 zui3
+驴子: lv2 zi
+驴打滚: lv2 da3 gu3n
 驷不及舌: si4 bu4 ji2she2
 驷之过蠙: si4 zhi1 guo4 pín
 驷之过隙: si4 zhi1 guo4 xi4
@@ -41996,7 +41996,7 @@
 骂骂咧咧: ma4 ma4 lie1 lie1
 骄佚奢淫: jia1o yi4 she1 yín
 骄侈暴佚: jia1o chi3 ba4o yi4
-骄儿騃女: jia1o e2r ba1 nǚ
+骄儿騃女: jia1o e2r ba1 nv3
 骄奢淫佚: jia1o she1 yín yi4
 骄奢淫泆: jia1o she1 yín yí
 骄横: jia1o he4ng
@@ -42038,10 +42038,10 @@
 骑缝章: qi2fe4ng zha1ng
 骑者善堕: qi2zhe3 sha4n duo4
 骑虎难下: qi2hu3 na2n xia4
-骑驴倒堕: qi2lǘ da3o duo4
-骑驴吟灞上: qi2lǘ yín ba4 sha4ng
-骑驴索句: qi2lǘ suo3 ju4
-骑驴风雪中: qi2lǘ fe1ng xue3 zho1ng
+骑驴倒堕: qi2lv2 da3o duo4
+骑驴吟灞上: qi2lv2 yín ba4 sha4ng
+骑驴索句: qi2lv2 suo3 ju4
+骑驴风雪中: qi2lv2 fe1ng xue3 zho1ng
 骑鹤上扬: qi2he4 sha4ng ya2ng
 骑鹤上扬州: qi2he4 sha4ng ya2ng zho1u
 骑鹤上维扬: qi2he4 sha4ng we2i ya2ng
@@ -42278,7 +42278,7 @@
 鬓乱钗横: bi4n lua4n cha1i he2ng
 鬓发: bi4n fa4
 鬓角: bi4n jia3o
-鬻儿卖女: yu4 e2r ma4i nǚ
+鬻儿卖女: yu4 e2r ma4i nv3
 鬻文为生: yu4 we2n we2i she1ng
 鬻矛誉楯: yu4 ma2o yu4 du4n
 鬻驽窃价: yu4 nu3 qie4 jia4
@@ -42339,7 +42339,7 @@
 魏颗结草: we4i ke1 jie2 ca3o
 魏鹊无枝: we4i que4 wu2 zhi1
 魔头: mo2 to2u
-魔女: mo2 nǚ
+魔女: mo2 nv3
 魔教: mo2 jia4o
 魔术: mo2 shu4
 魔术师: mo2 shu4 shi1
@@ -42659,7 +42659,7 @@
 麻痹大意: ma2 bi4 da4 yi4
 麻痺不仁: ma2 bi4 bu4 re2n
 麻雀: ma2 que4
-黄冠草履: hua2ng gua4n ca3o lǚ
+黄冠草履: hua2ng gua4n ca3o lv3
 黄冠草服: hua2ng gua4n ca3o fu2
 黄冠野服: hua2ng gua4n ye3 fu2
 黄卷幼妇: hua2ng jua4n yo4u fu4
@@ -42686,7 +42686,7 @@
 黄花晚节: hua2ng hua1 wa3n jie2
 黄袍加体: hua2ng pa2o jia1 ti3
 黄金时间: hua2ng ji1n shi2jia1n
-黄钟大吕: hua2ng zho1ng da4 lǚ
+黄钟大吕: hua2ng zho1ng da4 lv3
 黄钟瓦釜: hua2ng zho1ng wa3 fu3
 黄钟长弃: hua2ng zho1ng cha2ng qi4
 黄锺瓦缶: hua2ng zho1ng wa3 fo3u
