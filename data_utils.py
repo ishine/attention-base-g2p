@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# coding=utf8
 """Process data to create vocabulary, bucketing etc.
 
 Author: Shubham Toshniwal
@@ -71,9 +71,11 @@ def read_data_line(line):
         chars: list of characters
         phones: list of phones
     """
+    print('----- %s\n' %(sys._getframe().f_code.co_name))
     line = line.strip()
-    word, pronunciation = line.split("\t")
-
+    word, pronunciation = line.split(":")
+    print('----- ')
+    print('%s\t%s' %(word, pronunciation.strip()))
     chars = list(word.strip())
     phones = pronunciation.strip().split(" ")
 
@@ -141,7 +143,8 @@ def create_vocabulary(train_file):
     """
     vocab_input = odict()
     vocab_output = odict()
-
+    file=open(train_file).read().decode('gb18030','ignore')
+    print('-----0 %s\n' %(sys._getframe().f_code.co_name))
     input_count = 0
     output_count = 0
     try:
@@ -153,8 +156,9 @@ def create_vocabulary(train_file):
                     vocab_output[term] = output_count
                     input_count += 1
                     output_count += 1
-
-                for line in f_data:
+                    all_content = f_data.readlines()                
+                for line in all_content:
+                    print('----- %s\n' %(sys._getframe().f_code.co_name))
                     input_list, output_list = read_data_line(line)
                     for input_item in input_list:
                         if not (input_item in vocab_input):
@@ -220,7 +224,6 @@ def process_data(data_file, data_split, input_vocab, output_vocab):
     """
     proc_file = os.path.join(FLAGS.data_dir, data_split + ".pkl")
     data_file = os.path.join(FLAGS.data_dir, data_file)
-
     print ("Processing data file: %s" % data_file)
     proc_data = []
     try:
