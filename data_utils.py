@@ -10,7 +10,7 @@ Date: March, 2017
 import os
 import sys
 import random
-import cPickle as pickle
+import pickle as pkle
 import argparse
 from collections import OrderedDict as odict
 
@@ -98,7 +98,7 @@ def bucket_data(data, eval_data=False):
 def read_and_bucket_data(data_file, eval_data=False):
     """Read data from file and return bucekted data."""
     try:
-        data = pickle.load(open(data_file))
+        data = pkle.load(open(data_file))
         bucketed_data = bucket_data(data, eval_data=eval_data)
         return bucketed_data
     except IOError as e:
@@ -254,7 +254,7 @@ def process_data(data_file, data_split, input_vocab, output_vocab):
         sys.exit(1)
     try:
         print ("Writing processed data to file: %s" % proc_file)
-        pickle.dump(proc_data, open(proc_file, "w"))
+        pkle.dump(proc_data, open(proc_file, "w"))
     except:
         print ("Error while saving the processed pickle file:", proc_file)
 
