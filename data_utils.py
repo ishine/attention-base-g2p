@@ -13,7 +13,7 @@ import random
 import pickle as pkle
 import argparse
 from collections import OrderedDict as odict
-
+import preprocess as preproc
 # Special vocabulary symbols
 _PAD = 'PAD'  # NULL symbol to pad sequences to same length in a minibatch
 _GO = 'GO'    # Symbol denoting start of decoding
@@ -34,7 +34,7 @@ EOS_ID = 2
 # and max pronunciation length
 _buckets = [(35, 35)]
 FLAGS = object()
-
+global wrd2phn
 
 def parse_options():
     """Parse command line options."""
@@ -70,15 +70,19 @@ def read_data_line(line):
     Returns:
         chars: list of characters
         phones: list of phones
-    """
-    print('----- %s\n' %(sys._getframe().f_code.co_name))
+    """    
+    global wrd2phn
     line = line.strip()
-    word, pronunciation = line.split(":")
-    print('----- ')
-    print('%s\t%s' %(word, pronunciation.strip()))
+    word, pronunciation = line.split("\t")
     chars = list(word.strip())
-    phones = pronunciation.strip().split(" ")
-
+    #phones = pronunciation.strip().split(" ")
+    phones = []
+    p_split = pronunciation.split(' ')
+    for w in p_split:
+        if w in wrd2phn:
+            phone_list = wrd2phn[w]
+            for p in phone_list:
+                phones.append(p)          
     return chars, phones
 
 
@@ -100,7 +104,7 @@ def bucket_data(data, eval_data=False):
 def read_and_bucket_data(data_file, eval_data=False):
     """Read data from file and return bucekted data."""
     try:
-        data = pkle.load(open(data_file))
+        data = pkle.load(open(data_file, encoding='UTF-8'))
         bucketed_data = bucket_data(data, eval_data=eval_data)
         return bucketed_data
     except IOError as e:
@@ -143,22 +147,18 @@ def create_vocabulary(train_file):
     """
     vocab_input = odict()
     vocab_output = odict()
-    file=open(train_file).read().decode('gb18030','ignore')
-    print('-----0 %s\n' %(sys._getframe().f_code.co_name))
     input_count = 0
     output_count = 0
     try:
         if os.path.isfile(train_file):
-            with open(train_file, 'r') as f_data:
+            with open(train_file, 'r', encoding='UTF-8') as f_data:
                 # Add the special symbols defined above
                 for term in _START_VOCAB:
                     vocab_input[term] = input_count
                     vocab_output[term] = output_count
                     input_count += 1
-                    output_count += 1
-                    all_content = f_data.readlines()                
-                for line in all_content:
-                    print('----- %s\n' %(sys._getframe().f_code.co_name))
+                    output_count += 1              
+                for line in f_data:                    
                     input_list, output_list = read_data_line(line)
                     for input_item in input_list:
                         if not (input_item in vocab_input):
@@ -184,7 +184,7 @@ def write_vocabulary(vocab_dict, vocab_file):
     """Write vocabulary items to vocabulary file."""
     try:
         print ("Writing vocabulary file: %s" % vocab_file)
-        with open(vocab_file, 'w') as f_vocab:
+        with open(vocab_file, 'w', encoding='UTF-8') as f_vocab:
             for vocab_item in vocab_dict:
                 f_vocab.write(vocab_item + "\n")
     except IOError as e:
@@ -204,7 +204,7 @@ def initialize_vocabulary(vocabulary_path):
     """
     if os.path.isfile(vocabulary_path):
         rev_vocab = []
-        with open(vocabulary_path, 'r') as f:
+        with open(vocabulary_path, 'r', encoding='UTF-8') as f:
             rev_vocab.extend(f.readlines())
         rev_vocab = [line.strip() for line in rev_vocab]
         vocab = dict([(x, y) for (y, x) in enumerate(rev_vocab)])
@@ -228,7 +228,7 @@ def process_data(data_file, data_split, input_vocab, output_vocab):
     proc_data = []
     try:
         if os.path.isfile(data_file):
-            with open(data_file, 'r') as data_f:
+            with open(data_file, 'r', encoding='UTF-8') as data_f:
                 for line in data_f:
                     line = line.strip()
                     input_seq, output_seq = read_data_line(line)
@@ -255,22 +255,24 @@ def process_data(data_file, data_split, input_vocab, output_vocab):
     except:
         print ("Error processing file: %s" % data_file)
         sys.exit(1)
-    try:
-        print ("Writing processed data to file: %s" % proc_file)
-        pkle.dump(proc_data, open(proc_file, "w"))
-    except:
-        print ("Error while saving the processed pickle file:", proc_file)
+    #try:
+    print ("Writing processed data to file: %s, %d" % (proc_file, len(proc_data)))
+    pkle.dump(proc_data, open(proc_file, "w"))
+    #except:
+    #    print ("Error while saving the processed pickle file:", proc_file)
 
 
 if __name__ == "__main__":
+    global wrd2phn
     FLAGS = parse_options()
     vocab_input_path = os.path.join(FLAGS.data_dir, "vocab.char")
     vocab_output_path = os.path.join(FLAGS.data_dir, "vocab.phone")
-
+    wrd2phn = preproc.get_map('./word2phone.map')
     # Create vocabularies by reading in the training data
+    print('map size = %d\n' % (len(wrd2phn)))
     train_data_path = os.path.join(FLAGS.data_dir, FLAGS.train_file)
     input_vocab, output_vocab = create_vocabulary(train_data_path)
-
+    print('----- out create_vocabulary ')
     write_vocabulary(input_vocab, vocab_input_path)
     write_vocabulary(output_vocab, vocab_output_path)
 
