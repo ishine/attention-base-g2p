@@ -256,11 +256,15 @@ def process_data(data_file, data_split, input_vocab, output_vocab):
         print ("Error processing file: %s" % data_file)
         sys.exit(1)
     #try:
-    print ("Writing processed data to file: %s, %d" % (proc_file, len(proc_data)))
-    pkle.dump(proc_data, open(proc_file, "w"))
+    print ("Writing processed data to file: %s, %d, %s" % (proc_file, len(proc_data), type(proc_data)))
+    print(proc_data[0])
+    #pkle.dump(proc_data, open(proc_file, "w"))
+    with open(proc_file, 'wb') as fout:
+        for i in range(len(proc_data)):
+            serialized = pkle.dumps(proc_data[0])  
+            fout.write(serialized)
     #except:
     #    print ("Error while saving the processed pickle file:", proc_file)
-
 
 if __name__ == "__main__":
     global wrd2phn
